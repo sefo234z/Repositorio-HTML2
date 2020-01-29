@@ -1,0 +1,55 @@
+
+/*Menu Superior*/
+nav{
+    height:100px;
+    width: 100%;
+    list-style: none;
+}
+/*Titulo*/
+.divtitulo{
+    height: 100px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+/*Segunda parte*/
+.divsegundo{
+    height: 50px;
+    color: aqua;
+    text-align: center;
+    border: 1px solid black;}
+.amarillo{
+    color: yellow;
+}
+
+/*Tabla*/
+.fotos{
+border: 1px solid black;
+}
+/*Columnas*/
+.divizquierda{
+    background-color: pink;
+    color: black;
+    
+}
+.divderecha{
+    background-color: orangered;
+    color: black;
+  
+}
+.columna1{
+    background-color: #F3F781
+}
+.columna2 {
+    background-color: #A9E2F3
+}
+/*PIE*/
+footer{
+    background-color: green;
+    color: white
+}
+.pie{
+    color: white;
+    text-align: center
+
+}

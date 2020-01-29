@@ -1,0 +1,58 @@
+.primerh1
+{
+    text-align: left;
+    font-weight: bold;
+}
+.horas
+{
+    text-align: center;
+    background-color: gray
+
+}
+.negritaysubrayado
+{
+    font-weight: bold;
+    text-decoration: underline black;
+    text-align: left;
+
+}
+.derecha
+{
+    text-align: right;
+
+}
+.izquierda
+{
+    text-align: left;
+
+}
+.smx-m06
+{
+    background-color: aqua;
+}
+.smx-m08
+{
+    background-color:orange;
+}
+.smx-m10
+{
+    background-color: yellow;
+}
+.smx-m07
+{
+    background-color: pink;
+}
+.smx-Tut
+{
+    background-color: purple;
+}
+.smx-m04
+{
+    background-color:  indianred;
+}
+.patio
+{
+    text-align: center;
+    
+
+}

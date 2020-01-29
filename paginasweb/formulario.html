@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html  lang = "en" > 
+    <head>
+        <title>Títol de la pestanya</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" type="text/css"  href="../css/formulario.css"/>
+    </head>
+    <body>
+    <form action = "form.html"  method = "get"  enctype = "multipart / form-data"> 
+     <fieldset id="colornaranja">
+           
+       <legend><u>Información Basica</u></legend>
+         
+             <label  for = "id_text" >Nombre</label> 
+             <input  type = "text"  id = "id_text"  name = "n_text"  value = ""  placeholder = "Ej: Jorge"/><br/><br/>
+
+          
+             <label  for = "id_number" >Numero de telefono</label> 
+             <input  type = "number"  id = "id_number"  name = "n_number"  value = "" placeholder = " Ej: 612634869"/> <br/><br/>
+
+       
+             <label  for = "id_email">Correo</label> 
+             <input  type = "email"  id = "id_email"  name = "n_email"  value = "" placeholder = " Ej:correoejemplo@gmail.com"/><br/><br/>
+       
+             <label  for = "id_date">Fecha de nacimiento</label> 
+             <input  type = "date"  id = "id_date"  name = "n_date"  value = ""/>
+
+    </fieldset>
+    <fieldset id="colorverde">
+        
+        <legend>Nacionalidad</legend>
+        
+             <input  type = "radio"  id = "id_radio3"  name = "n_radio"  value = "g"/> Espanyola
+             <input  type = "radio"  id = "id_radio3"  name = "n_radio"  value = "g"/> Comunitario (UE)
+             <input  type = "radio"  id = "id_radio3"  name = "n_radio"  value = "g"/> No Comunitario
+            
+    </fieldset>
+    <fieldset id="colorrosa">
+                
+        <legend>Estudios</legend>
+             
+             <label  for = "id_select" ></label> 
+        
+        <select  id = "id_select"  name = "n_select" > 
+                   
+            <option  value = "default" selected>GS</option> 
+            <option  value = "c" >GM</option >
+            <option  value = "e" >Eso</option >
+            <option  value = "g" >Batxillerato</option >
+            <option  value = "d" >Universidad</option >
+        
+        </select>
+        </fieldset>
+                <fieldset id="colorazul">
+                <legend>Idiomas</legend> 
+                       
+             <input  type = "checkbox"  id = "id_checkbox1"  name = "n_checkbox []"  value = "a"  checked /> Catalan
+             <input  type = "checkbox"  id = "id_checkbox2"  name = "n_checkbox []" value = "c" /> Castellano
+             <input  type = "checkbox"  id = "id_checkbox3"  name = "n_checkbox []"  value = "g" /> Ingles
+             <input  type = "checkbox"  id = "id_checkbox4"  name = "n_checkbox []"  value = "t" /> Chino
+            
+    </fieldset>
+    <fieldset id="colorgris">
+                    
+             <input  type = "submit"  id = "id_submit"  name = "n_submit"  value = "Enviar"/> <input  type = "reset"  id = "id_reset"  name = "n_reset"  value = "Cancelar"/>
+     
+    </fieldset>
+
+        </form>
+        </body>
+        </html>

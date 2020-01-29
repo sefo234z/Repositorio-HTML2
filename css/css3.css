@@ -1,0 +1,138 @@
+/* Ejercicio 1 */
+#div1 {
+    border-radius: 15px 50px 30px 5px;
+    background:violet;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+  }
+  
+  #div2 {
+    border-radius: 15px 50px 30px;
+    background: blue;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+  }
+#div3 {
+    border-radius: 15px 50px;
+    background: yellow;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+  }
+  
+  #div4 {
+    border-radius: 15px;
+    background: hotpink;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+  }
+/* Ejercicio 2 */  
+#a1 {
+    background-color: rgba(255, 0, 0, 0.2);}  
+#a2 {
+    background-color: rgba(255, 0, 0, 0.4);}  
+#a3 {
+    background-color: rgba(255, 0, 0, 0.6);}  
+#a4 {
+    background-color: rgba(255, 0, 0, 0.8);}  
+/* Ejercicio 3 */
+#colorines{
+    width: 100%;
+    height: 200px;
+    background-image: linear-gradient(red, yellow);
+  }
+#colorines2 {
+    width: 100%;
+    height: 200px;
+    background-image: linear-gradient(to right,blue ,hotpink);
+  }  
+/* Ejercicio 4 */  
+#sombra{
+    font-family: 'Alata', sans-serif;
+    text-shadow: 2px 2px;
+  }
+#sombraroja{
+
+    font-family: 'Roboto Slab', serif;
+    text-shadow: 2px 2px red;
+  } 
+#sombradiv{
+    font-family: 'Ubuntu', sans-serif;
+    box-shadow: 10px 10px;
+    width: 50%;
+    height: 100px;
+    background-color: pink
+  }  
+#sombragris{
+    box-shadow: 10px 10px grey;
+    width: 50%;
+    height: 100px;
+    background-color: aqua
+  }
+#divcarta {
+    width: 250px;
+    height: 250px;
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2), 0 6px 20px 0 rgba(255, 0, 0, 0.19);
+    text-align: center;
+    background-image: url("../imatge/16.jpg")
+  }
+#textocarta{
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0 4px 8px 0 rgba(255, 0, 0, 0.2), 0 6px 20px 0 rgba(255, 0, 0, 0.19);
+  }
+/* Ejercicio 6 */ 
+#ejercicio6{
+  -ms-transform: rotate(20deg);
+  -webkit-transform: rotate(20deg); 
+  transform: rotate(20deg); 
+  background-color: pink;
+  width: 600px;
+  height: 100px;
+}  
+/* Ejercicio 7 */ 
+#ejercicio7{
+  width: 100px;
+  height: 100px;
+  background-color:aqua;
+  transition: width 2s;
+}
+#ejercicio7:hover{
+  width: 150px;
+  height: 150px;
+  background-color:green;
+  border: 5px solid black
+}
+/* Ejercicio 8 */ 
+#ejercicio8 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: purple;
+    animation-name: example;
+    animation-duration: 10s;
+    animation-iteration-count: 3;
+    border-radius: 50%;
+    text-align: center
+}
+@keyframes example {
+  0%   {background-color:purple; left:0px; top:0px;}
+  25%  {background-color: palevioletred; left:250px; top:0px;}
+  50%  {background-color:hotpink; left:250px; top:250px;}
+  75%  {background-color:violet; left:0px; top:250px;}
+  100% {background-color:purple; left:0px; top:0px;}
+ 
+
+}
+/* Ejercicio 9 */ 
+#el1{
+  column-count: 3;
+  column-rule: 1px solid red;
+}

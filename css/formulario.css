@@ -1,0 +1,31 @@
+label
+{
+    font-style: italic;
+    color: blue;
+    
+}
+legend
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+#colornaranja
+{
+    background-color: orange;
+}
+#colorverde
+{
+    background-color: green;
+}
+#colorrosa
+{
+    background-color: pink
+}
+#colorgris
+{
+    background-color: grey
+}
+#colorazul
+{
+    background-color: aqua
+}

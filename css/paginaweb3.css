@@ -1,0 +1,33 @@
+img{
+ width: 40px;
+ height: 40px;}
+td{
+ border: 1px solid black;
+}
+.menu{
+    list-style: none;
+    height: 100%;
+}
+.bg-light {
+    background-color: #bd2130!important;
+}
+.nav-link{
+    color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+table{
+    text-align: center;
+    margin-left: 200px;
+    color: white;
+    border:1px solid #bd2130;
+
+}
+td{
+    border:1px solid #bd2130;
+}
+body{
+    background-image: url(https://www.xtrafondos.com/wallpapers/textura-madera-en-negro-2802.jpg);color: white
+}

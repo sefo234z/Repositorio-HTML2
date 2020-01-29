@@ -1,0 +1,47 @@
+.columna{
+    width:   300px;
+    height:  300px;
+}
+img
+{
+    width:   300px;
+    height:  300px;
+
+}
+video, iframe{
+    width:   560px; 
+    height:  315px;
+}
+#texto1{
+    font-family: 'Alata', sans-serif;
+     margin: 5px;
+     background-color: greenyellow;
+}
+#texto2{
+
+    font-family: 'Roboto Slab', serif;
+    margin: 5px;
+    background-color: greenyellow;
+}
+#texto3{
+
+    font-family: 'Ubuntu', sans-serif;
+    margin: 5px;
+    background-color: greenyellow;
+}
+#texto4{
+
+    font-family: 'Alatsi', sans-serif;
+    margin: 5px;
+    background-color: greenyellow;
+}
+li:hover{
+     background-color: yellow;
+     font-size: 30px 
+}
+td{
+    border: 2px solid;
+}
+table{
+    border-collapse: collapse;
+}

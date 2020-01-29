@@ -1,0 +1,68 @@
+#div1{
+    width: 600px;
+    height: 600px;
+
+}
+#div2{
+    width: 66%;
+     height: 10%;  
+     border: 1px solid black;
+     margin: 1px;
+     float: left;
+   }
+#div3{
+    width: 32%;
+     height: 10%;  
+     border: 1px solid black;
+     margin: 1px;
+     float: right;
+   }
+#div4{
+     width: 32.7%;
+     height: 20%;  
+     border: 1px solid black;
+     margin: 1px;
+     float:left; 
+     }   
+#div5{
+    width: 34%px;
+    height: 20%px;  
+    border: 1px solid black;
+    margin: 1px;
+    float: left;
+         }     
+#div6{
+    width: 32%;
+    height: 20%;  
+    border: 1px solid black;
+    margin: 1px;
+    float: right; 
+            }    
+#div7{
+    width: 32.70%;
+    height: 10%;  
+    border: 1px solid black;
+    margin: 1px;
+    float: left;
+            }
+#div8{
+    width: 32%;
+    height: 10%;  
+    border: 1px solid black;
+    margin: 1px;
+    float: right;
+                    }
+                
+    .colornegro
+    {
+      background-color: black
+     }
+    .colorverdefuerte{
+     background-color: green;
+     }
+    .colorverde{
+     background-color: greenyellow;
+     }
+                    
+
+  

@@ -1,0 +1,39 @@
+main{
+    
+    width: 800px;
+    line-height: 0;
+}
+section{
+   
+    background-color: #fef2cd;
+    width: 790px;
+    line-height: 0;
+    border: 10px solid black;
+}
+article{
+    float: left;
+    width: 520px;
+}
+.article2{
+   width: 94%;
+   margin-left: 30px
+} 
+.article3{
+    width: 94%;
+    height: 400px;
+    margin-left: 30px
+}   
+.article4{
+    width: 94%;
+    margin-left: 30px
+}   
+.asidederecha{
+    margin-top: 5px;
+   float: left;
+   width: 170px;
+}
+.asideizquierda{
+    margin-top: 5px;
+    float: left;
+    width: 100px;
+}

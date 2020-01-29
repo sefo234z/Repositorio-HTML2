@@ -1,0 +1,27 @@
+div[class^='col-']{
+    border: 2px solid white;
+}
+.verde{
+    height: 40px;
+    background-color: green;
+    color: green;
+}
+.rosa{
+    height: 40px;
+    background-color:  pink;
+    color: pink;
+}
+.naranja{
+    height: 235px;
+    background-color:  orange;
+    color: orange
+}
+.azul{
+    height: 80px;
+    background-color: blue;
+    color: blue
+}
+.rojo{
+    background-color: red;
+    color: red;
+}

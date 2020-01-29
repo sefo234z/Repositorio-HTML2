@@ -1,0 +1,151 @@
+#div1{
+        width: 600px;
+        height: 600px;
+        position: relative;
+    
+    }
+    #div2{
+     
+        width: 394px;
+        height: 97px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; 
+        left: 0px;
+
+        background-repeat: no-repeat;
+        background-size: 397px 97px;
+    }
+    #div3{
+        width: 194px;
+        height: 97px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; left: 400px;
+       
+        background-repeat: no-repeat;
+        background-size: 194px 97px;
+    }   
+    #div4{
+         width: 194px;
+         height: 197px;  
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 0px; top: 100px;
+       
+         background-repeat: no-repeat;
+         background-size: 196px 197px;
+     }
+    #div5{
+         width: 194px;
+         height: 297px;  
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 200px; top: 100px;
+
+         background-repeat: no-repeat;
+        background-size: 194px 297px;
+      } 
+    #div6{
+     
+        width: 194px;
+        height: 97px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; left: 400px; top: 100px;
+        
+        background-repeat: no-repeat;
+        background-size: 197px 97px;
+     }
+    #div7{
+         width: 194px;
+         height: 97px;
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 400px; top: 201px;
+   
+         background-repeat: no-repeat;
+        background-size: 194px 95px;
+      }
+    #div8{
+     
+         width: 194px;
+         height: 97px;
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 0px; top: 300px;
+
+         background-repeat: no-repeat;
+        background-size: 194px 95px;
+     }   
+    #div9{
+     
+         width: 194px;
+         height: 197px;
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 400px; top: 300px;
+        
+         background-repeat: no-repeat;
+        background-size: 194px 195px;
+       }                
+    #div10{
+         width: 194px;
+         height: 197px;
+          
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 0px; top: 400px;
+      
+         background-repeat: no-repeat;
+        background-size: 194px 197px;
+       }
+    
+    #div11{
+         width: 194px;
+         height: 97px;
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 200px; top: 400px;   
+   
+         background-repeat: no-repeat;
+        background-size: 194px 95px;                 
+       }
+    #div12{
+         width: 194px;
+         height: 97px;
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 200px; top: 500px;    
+      
+         background-repeat: no-repeat;
+        background-size: 194px 95px;              
+       }
+    #div13{
+         width: 194px;
+         height: 97px;
+         border: 1px solid black;
+         margin: 1px;
+         position: absolute; left: 400px; top: 500px;   
+          
+         background-repeat: no-repeat;
+        background-size: 194px 95px;              
+       } 
+                              
+      .colornegro
+      {
+        background-color: black
+       }
+      .colorverdefuerte{
+       background-color: green;
+       }
+      .colorverde{
+       background-color: greenyellow;
+       }
+                
+
+
+
+                        
+
+  
